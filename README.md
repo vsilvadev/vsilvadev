@@ -12,5 +12,5 @@
 
 <h3>How to reach or find me? 💬</h3>
 💼 <a href="https://www.linkedin.com/in/vitor-andre-batista-silva/">LinkedIn</a><br>
-📧 <a href="mailto:vitorabsilva10@gmail.com">Email</a>
+📧 <a href="mailto:vitorabsilva10@gmail.com">Email</a><br>
 🚀 <a href="https://app.rocketseat.com.br/me/function">Rocketseat</a>
