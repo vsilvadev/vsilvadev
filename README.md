@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm Vitor! 👋🏽</h1>
 
-<h3>Seeking knowledge, improvement to help people as I can 💡</h3>
+<h3>Seeking knowledge and improvement to help people as I can 💡</h3>
 <p>📖 My learning is based on practice, creating projects and helping people</p>
 
 <h3>About Me 😃</h3>
