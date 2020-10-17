@@ -8,7 +8,8 @@
 💻 I’m currently learning JavaScript (Node JS, React JS and React Native)<br>
 📚 Currently in the 6th semester of the Computer Science Bachelor<br>
 🧠 There will always be something to learn<br>
-✨ Passionate about technology
+✨ Passionate about technology<br>
+⭐ Going to the next level
 
 <h3>How to reach or find me? 💬</h3>
 💼 <a href="https://www.linkedin.com/in/vitor-andre-batista-silva/">LinkedIn</a><br>
