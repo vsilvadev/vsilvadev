@@ -6,7 +6,7 @@
 
 <h3>About Me 😃</h3>
 💻 I’m currently learning JavaScript (Node JS, React JS and React Native)<br>
-📚 Currently in the 6th semester of the Computer Science Bachelor<br>
+📚 Currently in the 7th semester of the Computer Science Bachelor<br>
 🧠 There will always be something to learn<br>
 ✨ Passionate about technology<br>
 ⭐ Going to the next level
