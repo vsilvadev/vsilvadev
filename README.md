@@ -5,11 +5,11 @@
 <p>📖 My learning is based on practice, creating projects and helping people</p>
 
 <h3>About Me 😃</h3>
-💻 I’m currently learning JavaScript (Node JS, React JS and React Native)<br>
+💻 I’m currently learning React JS for front-end<br>
 📚 Currently in the 7th semester of the Computer Science Bachelor<br>
 🧠 There will always be something to learn<br>
 ✨ Passionate about technology<br>
-⭐ Going to the next level
+⭐ Never Stop Learning
 
 <h3>How to reach or find me? 💬</h3>
 💼 <a href="https://www.linkedin.com/in/vitor-andre-batista-silva/">LinkedIn</a><br>
