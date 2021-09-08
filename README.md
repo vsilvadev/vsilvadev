@@ -1,17 +1,50 @@
 
 <h1 align="center">Hi there, I'm Vitor! 👋🏽</h1>
 
-<h3>Seeking knowledge and improvement to help people as I can 💡</h3>
-<p>📖 My learning is based on practice, creating projects and helping people</p>
-
 <h3>About Me 😃</h3>
-💻 I’m currently learning React JS for front-end<br>
-📚 Currently in the 7th semester of the Computer Science Bachelor<br>
+📖 My learning is based on practice, creating projects and helping people<br>
+💻 I'm currently learning Dart and Flutter for Mobile Development<br>
+📚 Currently in the 8th semester of the Computer Science Bachelor<br>
 🧠 There will always be something to learn<br>
-✨ Passionate about technology<br>
-⭐ Never Stop Learning
+⭐ Passionate about technology<br>
+😃 I like to play video games, read books, watch movies and marathon series (I'm addicted to anime right now)<br>
 
+##
+
+<div>
+  <a href="https://github.com/vsilvadev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vsilvadev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsilvadev&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+<h3>My Technologies</h3>
+<div style="display: inline_block">
+  <a href = "https://dart.dev/" target="_blank">
+    <img align="center" alt="Vitor-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  </a>
+  <a href = "https://flutter.dev/" target="_blank">
+        <img align="center" alt="Vitor-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
+  </a>
+  <a href = "https://www.javascript.com/" target="_blank">
+    <img align="center" alt="Vitor-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  </a>
+  <a href = "https://www.typescriptlang.org/" target="_blank">
+    <img align="center" alt="Vitor-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  </a>
+  <a href = "https://reactjs.org/" target="_blank">
+    <img align="center" alt="Vitor-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  </a>
+  <a href = "https://www.w3schools.com/html/" target="_blank">
+    <img align="center" alt="Vitor-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  </a>
+  <a href = "https://www.w3schools.com/css/" target="_blank">
+    <img align="center" alt="Vitor-css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </a>
+</div>  
+  
 <h3>How to reach or find me? 💬</h3>
-💼 <a href="https://www.linkedin.com/in/vitor-andre-batista-silva/">LinkedIn</a><br>
-📧 <a href="mailto:vitorabsilva10@gmail.com">Email</a><br>
-🚀 <a href="https://app.rocketseat.com.br/me/function">Rocketseat</a>
+<div> 
+  <a href = "mailto:vitorabsilva10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vitor-andre-batista-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
