@@ -34,12 +34,6 @@
   <a href = "https://reactjs.org/" target="_blank">
     <img align="center" alt="Vitor-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </a>
-  <a href = "https://www.w3schools.com/html/" target="_blank">
-    <img align="center" alt="Vitor-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  </a>
-  <a href = "https://www.w3schools.com/css/" target="_blank">
-    <img align="center" alt="Vitor-css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </a>
 </div>  
   
 <h3>How to reach or find me? 💬</h3>
