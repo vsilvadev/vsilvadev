@@ -3,10 +3,9 @@
 
 <h3>About Me 😃</h3>
 📖 My learning is based on practice, creating projects and helping people<br>
-💻 I'm currently learning Dart and Flutter for Mobile Development<br>
-📚 Currently in the 8th semester of the Computer Science Bachelor<br>
+💻 I'm currently learning and working with Dart and Flutter for Mobile Development<br>
+📚 Currently in the last semester of the Bachelor in Computer Science<br>
 🧠 There will always be something to learn<br>
-⭐ Passionate about technology<br>
 😃 I like to play video games, read books, watch movies and marathon series (I'm addicted to anime right now)<br>
 
 ##
