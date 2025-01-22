@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi there, I'm Vitor! 👋🏽</h1>
-Software Engineer @QuintoAndar. <br>
+Mobile Software Engineer @QuintoAndar. <br>
 Based in Sao Paulo, Brasil. 🇧🇷 <br><br>
 
 
-💻 Working with Flutter for Mobile Development<br>
+💻 Working with Flutter <br>
 
   
 <h3>How to reach or find me? 💬</h3>
